@@ -1,0 +1,14 @@
+{
+  "name": "wilders",
+  "version": "1.0.0",
+  "description": "met le noms de mes camarades de couleurs différentes",
+  "main": "index.js",
+  "scripts": { 
+    "start": "node index.js"
+  },
+  "author": "cyrcab",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2"
+  }
+}
